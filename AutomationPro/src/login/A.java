@@ -4,11 +4,13 @@ public class A {
 	
 	public  A()
 	{
-		System.out.println("Welcome....");
+		
+		
 	}
 	
 	public int sum(int a, int b)
 	{
+		System.out.println("Hello...");
 		int c=a+b;
 		return c;
 	}
